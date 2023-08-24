@@ -1,0 +1,42 @@
+
+#content {
+    width: auto;
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0 1.5em;
+    /* width: 100%; */
+    text-align: center;
+
+}
+
+#logo_link {
+    padding-top: 50px
+}
+
+.logo {
+    width: 7%;
+    float: left;
+}
+
+
+header {
+    height: 120px;
+    background-color: #e00052;
+}
+
+nav {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    line-height: 1em;
+    padding: 1em;
+    min-width: 120px;
+    /* background-color: #e00052; */
+}
+
+nav a {
+    padding:4em;
+    min-width: 190px;
+    text-decoration: none;
+    padding: 30px;
+}
