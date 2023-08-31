@@ -26,3 +26,19 @@ html {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
+.hero-message {
+    font-weight: bold;
+    font-size: large;
+    font-family: "Times New Roman", Times, serif;
+    color: #DDCECD;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    background-color: #37392E;
+}
+
+#about-html {
+    background-color: #025464;
+}
+
